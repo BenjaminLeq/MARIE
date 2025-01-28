@@ -17,7 +17,7 @@ L'application se divise en trois parties distinctes :
 
 ![image](https://github.com/user-attachments/assets/fd3b2ca3-f82e-4de2-a7c4-c8bd2d23150a)
 
-L'application dispose également d'un bouton switch pour changer le thème de l'applcaition de sombre à clair.
+L'application dispose également d'un bouton switch pour changer le thème de l'application de sombre à clair.
 
 ## Note
 L'application n'est pas dans sa forme définitive. Elle est déstinée à évoluer au cours du temps.
